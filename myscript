@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo -e "#!/bin/bash\nMy Repo for Shell scripts" > README.md
