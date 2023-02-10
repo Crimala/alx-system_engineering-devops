@@ -1,2 +1,1 @@
-#!/bin/bash
-My Repo for Shell scripts
+This is a shell systems engineering deops repository
