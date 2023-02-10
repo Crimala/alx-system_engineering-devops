@@ -1,5 +1,0 @@
-#!/bin/bash
-
-echo "myscript fills in the repo README.md file" > README.md
-
-echo -e "#!/bin/bash\npwd" > 0-current_working_directory
