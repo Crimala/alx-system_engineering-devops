@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 mktemp my_first_directory
+=======
+mkdir /tmp/my_first_directory
+>>>>>>> 308edd0bb3a1b7e4916ab709f32626df02af0dc3

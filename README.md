@@ -1,1 +1,1 @@
-This is a shell systems engineering deops repository
+This is my shell basics Repo
